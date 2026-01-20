@@ -42,7 +42,8 @@ The dataset contains vendor-level purchase and sales information, including:
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
-- CSV files  
+- CSV files
+- Power BI
 
 ---
 
