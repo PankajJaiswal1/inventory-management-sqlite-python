@@ -30,7 +30,20 @@ This project addresses the need to ingest data into a lightweight database using
 - Pandas
 - SQLAlchemy
 - Logging module
+- Power BI
 
 ---
 
-## Project Structure
+---
+
+## Working Methodology
+1. Input data is loaded into a Pandas DataFrame  
+2. A connection to the SQLite database is established  
+3. Data is inserted into database tables using `to_sql()`  
+4. Logging records execution details and errors  
+5. Data is stored persistently in the database  
+
+---
+
+
+
